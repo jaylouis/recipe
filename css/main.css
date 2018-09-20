@@ -1,0 +1,79 @@
+/*#8BC34A primary*/
+/*#607D8B accent*/
+/*#757575 dark gray*/
+
+/*General*/
+body{
+	font-family: 'Fira Sans', sans-serif;
+	line-height: 1.4rem;
+	color:#212121;
+
+}
+/*Header*/
+
+header{
+	padding:1.5rem 5%;
+	background-color: #8BC34A;
+}
+
+.logo h1{
+	font-family: 'Fira Sans', sans-serif;
+	font-size: 1.5rem;
+	color: #DCEDC8;
+}
+
+.menu a{
+	color:#DCEDC8;
+	text-decoration: none;
+}
+/*Main Content*/
+
+main{
+
+	padding:3rem 5%;
+}
+
+main h1{
+
+	font-family: 'Fira Sans', sans-serif;
+	font-size: 3rem;
+
+}
+
+main h2{
+
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2rem;
+}
+
+/*Column Left*/
+
+.col-left img{
+	width: 50%;
+}
+
+
+/*Inner Column*/
+/*Colum Right*/
+/*Ingredients Lists*/
+
+.ingredients ul{
+	font-family: 'Montserrat', sans-serif;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	
+	
+}
+
+.ingredients li{
+	padding: .5rem 0;
+	border-top: 1px dotted #BDBDBD;
+}
+
+/*Footer*/
+
+footer{
+	padding: 1.5rem 5%;
+	background-color: #8BC34A;
+}
